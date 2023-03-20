@@ -2,9 +2,16 @@
 
 using namespace std;
 
-int main()
+void greet()
 {
+
 	// Print some text
 	cout << "Welcome" << endl << endl << endl << endl;
 
+
+}
+
+int main()
+{
+	greet();
 }

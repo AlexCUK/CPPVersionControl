@@ -11,6 +11,8 @@ void greet()
 
 }
 
+void conflict();
+
 int main()
 {
 	greet();
